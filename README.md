@@ -18,5 +18,6 @@ Designed to run in **CMD, terminal, or Linux** environments without external lib
 
 ## ⚙️ Installation
 
-1. Make sure you have **Python 3.0+** installed.
-2. Download and run [multi_calculator.py](multi_calculator.py) 
+1️. Make sure you have **Python 3.0+** installed.
+<br>
+2️. Download and run [multi_calculator.py](multi_calculator.py) 
