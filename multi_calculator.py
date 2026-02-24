@@ -61,6 +61,7 @@ def print_info(msg):
     
 # --- Main Menu ---
 def main():
+    print("MIT License – © 2025 Menny Levinski")
     print_banner()
     running = True
 
