@@ -3,6 +3,11 @@
 
 """
 Author: Menny Levinski
+
+Multi-Functional Calculator
+
+Requirements:
+ - Python 3.0+
 """
 
 import sys
@@ -61,7 +66,6 @@ def print_info(msg):
     
 # --- Main Menu ---
 def main():
-    print("MIT License – © 2025 Menny Levinski")
     print_banner()
     running = True
 
